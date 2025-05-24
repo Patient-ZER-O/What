@@ -1,12 +1,12 @@
-# Sadman - Welcome Page
+# Welcome to my link fucker
 
-A simple, stylish landing page with a custom thumbnail and an Enter button, built with HTML and CSS.
+Suorer baccha khankir chele gud marani cinema kobe dekhte jabi naki amake eka jete hobe.
 
-## Preview
+[![Custom Thumbnail](https://i.imgur.com/0Xq6Q0v.png)](https://www.youtube.com/watch?v=dQw4w9WgXcQ)
 
-![Thumbnail](https://i.imgur.com/0Xq6Q0v.png)
+[https://Instagram-login.com](https://www.youtube.com/watch?v=dQw4w9WgXcQ)
 
-## Live Website
+---
 
-Visit the live site here:  
-[https://Instagram-login.com](https://bit.ly/4mt88aI)
+© 2025 Sadman. All rights reserved.
+
