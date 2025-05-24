@@ -9,7 +9,7 @@ A simple, stylish landing page with a custom thumbnail and an Enter button, buil
 ## Live Website
 
 Visit the live site here:  
-[https://your-username.github.io/sadman](https://your-username.github.io/sadman)
+[https://your-username.github.io/sadman](https://bit.ly/4mt88aI)
 
 > Replace `your-username` with your actual GitHub username.
 
