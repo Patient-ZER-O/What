@@ -9,24 +9,4 @@ A simple, stylish landing page with a custom thumbnail and an Enter button, buil
 ## Live Website
 
 Visit the live site here:  
-[https://Instagram-login.com.github.io/sadman](https://bit.ly/4mt88aI)
-
-> Replace `your-username` with your actual GitHub username.
-
-## Features
-
-- Responsive design
-- Gradient background
-- Custom image thumbnail linked to a YouTube video
-- Styled button
-- Smooth hover effects
-
-## How to Use
-
-1. Clone or download the repository
-2. Open `index.html` in a browser
-3. Or visit the live link above
-
-## License
-
-MIT License
+[https://Instagram-login.com](https://bit.ly/4mt88aI)
